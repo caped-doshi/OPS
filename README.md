@@ -1,2 +1,2 @@
 # OPS
-Online portfolio selection
+Online Portfolio Selection (OPS) implementation with shorting and transaction costs. 
