@@ -5,6 +5,6 @@
 
 class AssetPrice;
 
-double meta_alg(const std::vector<std::vector<AssetPrice>>& assets);
+double meta_alg(const std::vector<std::vector<AssetPrice>>& assets, int T);
 
 #endif //META_BACKTEST_H
